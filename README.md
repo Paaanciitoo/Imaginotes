@@ -29,10 +29,7 @@ Este proyecto fue desarrollado utilizando únicamente:
 
 ## 📷 Capturas de pantalla
 
-<!-- Agrega aquí imágenes de tu app si las tienes -->
-<!-- Ejemplo:
-![ImagiNotes Screenshot](ruta/a/tu/captura.png)
--->
+![ImagiNotes Screenshot](example.png)
 
 ## 💡 Inspiración
 
